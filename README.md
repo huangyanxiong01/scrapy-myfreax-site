@@ -1,6 +1,7 @@
 
 | Domain | IpAddr | Blocked | Server IDC | Location | Reason |
 | --- | --- | --- | --- | --- | --- |
+| wyxl.net | 139.159.194.231 | FireWall | hwclouds | 中国 广东 广州 华为云 | Crawlers |
 | zhen.bushini.de |  45.128.156.13 | FireWall | Unkonwn | US | Crawlers |
 | fons.com.cn |  152.32.190.194 | FireWall | Ucloud | China | Crawlers |
 | linux265.com | 120.79.48.209 | FireWall | Aliyun | China | Crawlers |

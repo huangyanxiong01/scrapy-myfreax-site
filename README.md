@@ -58,4 +58,4 @@
 | your-server.de | 88.99.1.34 | Firewall | Unknown |德国 萨克森自由州 |Suspected Crawlers|
 | Unknown | 43.128.35.22 | Firewall | 腾讯云 |中国 香港  |Suspected Crawlers|
 | Unknown | 205.252.217.110 | Firewall | 电讯盈科 |中国 香港  |Suspected Crawlers|
-
+| ywnz.com | 206.119.117.179 | Firewall | Unknown |中国 香港  |Suspected Crawlers|

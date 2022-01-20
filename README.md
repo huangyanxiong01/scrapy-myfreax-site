@@ -1,7 +1,7 @@
 
 | Domain | IpAddr | Blocked | Server IDC | Location | Reason |
 | --- | --- | --- | --- | --- | --- |
-| igiftidea.com | 47.241.116.242 | FireWall | hwclouds |新加坡 阿里云 | Crawlers |
+| igiftidea.com | 47.241.116.242 | FireWall | Aliyun |新加坡 阿里云 | Crawlers |
 | wyxl.net | 139.159.194.231 | FireWall | hwclouds | 中国 广东 广州 华为云 | Crawlers |
 | zhen.bushini.de |  45.128.156.13 | FireWall | Unkonwn | US | Crawlers |
 | fons.com.cn |  152.32.190.194 | FireWall | Ucloud | China | Crawlers |
